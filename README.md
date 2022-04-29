@@ -54,10 +54,11 @@
 
 <div align="center">  
 <details>
-    <summary>🔘<b>'HEROKU DEPLOYING AND INFO'</b>
+    <summary>🔘<b>HEROKU DEPLOYING AND INFO</b>
 
 </summary>
 
+## 'HEROKU'
 
 <div align="center">
   <p align="center">
@@ -84,7 +85,7 @@
 
 <div align="center">  
 <details>
-    <summary>🎯<b>'To Deploy in other platforms' , Click Here</b>🗳️
+    <summary>🎯<b>To Deploy in other platforms , Click Here</b>🗳️
 
 </summary>
 
