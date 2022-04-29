@@ -63,7 +63,7 @@
   <p align="center">
 
 
-    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Eximinati/Ari-Ani-md)
+ 
  
 -   open replit and make replit account from the link below👇🏼
 
@@ -78,6 +78,7 @@
 -   now for last step. 
 -   After scanning the qr new session.json file will create, copy the text of the file and paste it on session.json file
       click on heroku deploy button and bot is connected
+       [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Eximinati/Ari-Ani-md)
     
 </p>
 
