@@ -1,26 +1,17 @@
-<h1 align="center">ꪶ𝙰𝚂𝚃𝙰-𝙼𝙳ꫂ<br></h1>
-<p align="center">
-  <img src="https://i.imgur.com/WUVh6yq.jpeg" width="370" height="370" />
-</p>
+<div align="center">
 
-<p align="center">
-ASTA - MD is a automated whatsapp bot created by <a href="https://github.com/nexusNw" target="_blank">N3XU5-53R</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
+<a href='https://www.linkpicture.com/view.php?img=LPic624ee0719082f1592522799'><img src='https://www.linkpicture.com/q/WhatsApp-Image-2022-04-07-at-5.59.37-PM.jpeg' type='image'></a>
 
-<p align="center">
-</p>
 
-```
-⭐ BOT STATUS- RUNNING SUCCESSFULLY 🟢
-```
-</p>
-------
 
+# **🅰🅻🅱🅴🅳🅾: A WhatsApp BOT WITH RICH CREATION FEATURES**
+  
+  
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/nexusNw/followers"><img title="Followers" src="https://img.shields.io/github/followers/nexusNw?color=red&style=flat-square"></a>
-<a href="https://github.com/nexusNw/Asta"><img title="Open Source" src="https://img.shields.io/badge/Author-Nexus%20Nw%20Inc.-red?v=103"></a><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FnexusNw%2FAsta&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/nexusNw/Asta/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Eximinati/followers"><img title="Followers" src="https://img.shields.io/github/followers/Eximinati?color=red&style=flat-square"></a>
+<a href="https://github.com/Eximinati/Ari-Ani-md"><img title="Open Source" src="https://img.shields.io/badge/Author-Eximinati.-red?v=103"></a><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEximinati%2FAri-Ani-md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Eximinati/Ari-Ani-md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -28,9 +19,9 @@ ASTA - MD is a automated whatsapp bot created by <a href="https://github.com/nex
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/918129624395"><img src="https://img.shields.io/badge/Chat-Creator-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/923087880256"><img src="https://img.shields.io/badge/Chat-Creator-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/FZSGo0P9zkH7FaDfEKAetP"><img src="https://img.shields.io/badge/Official GC- Join-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ"><img src="https://img.shields.io/badge/Subscribe-Nexus[YT]-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://www.youtube.com/c/GAMINGDUDES_GD"><img src="https://img.shields.io/badge/Subscribe-[YT]-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/GAMINGDUDES_GD" /><br>
 </p>
 
 </p>
@@ -40,22 +31,24 @@ ASTA - MD is a automated whatsapp bot created by <a href="https://github.com/nex
 - [`1st GC`](https://chat.whatsapp.com/FZSGo0P9zkH7FaDfEKAetP)
 - [`2nd GC`](https://chat.whatsapp.com/FZSGo0P9zkH7FaDfEKAetL)
 
-# Setup For Deployment 👇
+</p>
+
+<div align="center">  
+<details>
+    <summary>🎯<b>Setup for deployment , Click Here</b>🗳️
+
+</summary>
+
+
+<div align="center">
+  <p align="center">
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/nexusNw/Asta/blob/master/config.js#L25)
-- CHANGE OWNER NAME [Here](https://github.com/nexusNw/Asta/blob/master/config.js#L30)
-- CHANGE BOT NAME [Here](https://github.com/nexusNw/Asta/blob/master/config.js#L29)
+- CHANGE OWNER NUMBER [Here](https://github.com/Eximinati/Ari-Ani-md/blob/master/config.js#L25)
+- CHANGE OWNER NAME [Here](https://github.com/Eximinati/Ari-Ani-md/blob/master/config.js#L30)
+- CHANGE BOT NAME [Here](https://github.com/Eximinati/Ari-Ani-md/blob/master/config.js#L29)
 
-## ` BUILDPACKS`
-
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-https://github.com/DuckyTeam/heroku-buildpack-imagemagick
-heroku/nodejs
-```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Eximinati/Ari-Ani-md)
 
@@ -81,6 +74,7 @@ heroku/nodejs
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
 
+    
 ## `For Termux/Ssh/Ubuntu`
 ```bash
 apt update
