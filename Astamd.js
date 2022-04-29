@@ -592,7 +592,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
             }
             break
             case 'sc': case 'script': {
-                reply('Script : https://github.com/nexusNw/Asta\n Dont Forget To Give Star\n\nYoutube : https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ\n Dont Forget To Subscribe')
+                reply('Script : https://github.com/Eximinati/Ari-Ani-md\n Dont Forget To Give Star\n\nYoutube : https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ\n Dont Forget To Subscribe')
             }
             break
             case 'chat': {
@@ -1208,7 +1208,7 @@ case 'antilink':
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw/Asta'
+                                    url: 'https://github.com/Eximinati/Ari-Ani-md'
                                 }
                             }, {
                                 callButton: {
@@ -1248,7 +1248,7 @@ case 'antilink':
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Script🔖',
-                                    url: 'https://github.com/nexusNw/Asta'
+                                    url: 'https://github.com/Eximinati/Ari-Ani-md'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2385,12 +2385,12 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                             	urlButton: {
                                 displayText: 'Script🔖',
-                                    url: 'https://github.com/nexusNw/Asta'
+                                    url: 'https://github.com/Eximinati/Ari-Ani-md'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2445,12 +2445,12 @@ Please Select Button Below
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                             	urlButton: {
                                 displayText: 'Script🔖',
-                                    url: 'https://github.com/nexusNw/Asta'
+                                    url: 'https://github.com/Eximinati/Ari-Ani-md'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2615,7 +2615,7 @@ case 'grupmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2657,7 +2657,7 @@ case 'downloadmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2694,7 +2694,7 @@ case 'downloadmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2725,7 +2725,7 @@ case 'randommenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2757,7 +2757,7 @@ case 'funmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2797,7 +2797,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2831,7 +2831,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2889,7 +2889,7 @@ case 'horoscopemenukcodk': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2927,7 +2927,7 @@ case 'convertmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2967,7 +2967,7 @@ case 'nocategorymenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3004,7 +3004,7 @@ case 'databasemenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3036,7 +3036,7 @@ case 'anonymouschatmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3068,7 +3068,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3105,7 +3105,7 @@ break
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'profile📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3246,7 +3246,7 @@ break
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'profile📍',
-                                    url: 'https://github.com/nexusNw'
+                                    url: 'https://github.com/Eximinati'
                                 }
                             }, {
                                 quickReplyButton: {
