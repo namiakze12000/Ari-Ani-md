@@ -15,7 +15,7 @@
 </p>
 <p align='center'>
     </p>
--------
+
 
 ## ```Connect With Me```
 <p align="center">
@@ -50,9 +50,35 @@
 - CHANGE BOT NAME [Here](https://github.com/Eximinati/Ari-Ani-md/blob/master/config.js#L29)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Eximinati/Ari-Ani-md)
+</p>
+
+<div align="center">  
+<details>
+    <summary>🔘<b>Heroku deploying and info</b>
+
+</summary>
 
 
+<div align="center">
+  <p align="center">
+
+
+    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Eximinati/Ari-Ani-md)
+ 
+-   open replit and make replit account from the link below👇🏼
+
+-   SIGN UP LINK [Here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi0rvbDj7n3AhXj_7sIHeaZAzIQFnoECAcQAQ&url=https%3A%2F%2Freplit.com%2FIuRD%2F0&usg=AOvVaw2Z6OUJjVEZEyprfA85kvis)
+
+-   Now click on the link and fork the repo, after forking the repo delete session.json file
+
+#✨Getting session.json file
+
+-   After deleting session.json click on the run command and scan qr with dedicated number in which you wanna host your bot.
+
+-   now for last step. 
+-   After scanning the qr new session.json file will create, copy the text of the file and paste it on session.json file
+      click on heroku deploy button and bot is connected
+    
 </p>
 
 <div align="center">  
@@ -97,3 +123,13 @@ npm start
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
+    
+## 🎗Help
+
+Please give this repo a ⭐ if it helped you.
+
+## ALBEDO
+
+This is a lovely project by Eximinati. After forking give it a star. 🌟 star it. If you need help then click the following Whatsapp icons and join our groups and contact an OWNER 
+
+ 
