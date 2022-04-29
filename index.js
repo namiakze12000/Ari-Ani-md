@@ -57,7 +57,7 @@ async function startNexusNwInc() {
         if (!NexusNwInc.public && !mek.key.fromMe && chatUpdate.type === 'notify') return
         if (mek.key.id.startsWith('BAE5') && mek.key.id.length === 16) return
         m = smsg(NexusNwInc, mek, store)
-        require("./Astamd")(NexusNwInc, m, chatUpdate, store)
+        require("./albedo")(NexusNwInc, m, chatUpdate, store)
         } catch (err) {
             console.log(err)
         }
