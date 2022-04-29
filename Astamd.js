@@ -1213,7 +1213,7 @@ case 'antilink':
                             }, {
                                 callButton: {
                                     displayText: 'Owner Number👤',
-                                    phoneNumber: '+91 812-9624-395'
+                                    phoneNumber: '+92 308-7880-256'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2169,7 +2169,7 @@ View list of message with ${prefix}listmsg`)
 				let buttons = [{
                                 urlButton: {
                                     displayText: 'Report Bug🐛',
-                                    url: 'https://wa.me/918129624395?text=hello+bro+i+found+a+bug+in+your+bot'
+                                    url: 'https://wa.me/923087880256?text=hello+bro+i+found+a+bug+in+your+bot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2367,7 +2367,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             break
                     case 'bug': case 'report': {
                     	if(!text) throw `Enter The Bug Example\n\n${command} Menu Error `
-                    	NexusNwInc.sendMessage(`918129624395@s.whatsapp.net`, {text: `*Bug Report From:* wa.me/${m.sender.split("@")[0]}
+                    	NexusNwInc.sendMessage(`923087880256@s.whatsapp.net`, {text: `*Bug Report From:* wa.me/${m.sender.split("@")[0]}
 Report Message: ${text}` })
 reply(`Successfully Reported To The Owner\n\nPlease Make Sure The Bug Is Valid, If You Play With This, Use This Feature Again And Again For No Reason, You Will Be Blocked For Sure !`)
                     }
