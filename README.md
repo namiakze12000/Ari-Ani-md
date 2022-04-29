@@ -20,7 +20,7 @@
 ## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/923087880256"><img src="https://img.shields.io/badge/Chat-Creator-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/FZSGo0P9zkH7FaDfEKAetP"><img src="https://img.shields.io/badge/Official GC- Join-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/FXDZOyXwdsK4vuOLPGZKpX"><img src="https://img.shields.io/badge/Official GC- Join-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.youtube.com/c/GAMINGDUDES_GD"><img src="https://img.shields.io/badge/Subscribe-[YT]-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/GAMINGDUDES_GD" /><br>
 </p>
 
@@ -28,8 +28,8 @@
 
 ## ```Bot Support Groups```
 
-- [`1st GC`](https://chat.whatsapp.com/FZSGo0P9zkH7FaDfEKAetP)
-- [`2nd GC`](https://chat.whatsapp.com/FZSGo0P9zkH7FaDfEKAetL)
+- [`1st GC`](https://chat.whatsapp.com/FXDZOyXwdsK4vuOLPGZKpX)
+
 
 </p>
 
