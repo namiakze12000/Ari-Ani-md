@@ -41,7 +41,7 @@ async function startNexusNwInc() {
     if (json.content[0].tag == 'offer') {
     let pa7rick = await NexusNwInc.sendContact(callerId, global.owner)
     NexusNwInc.sendMessage(callerId, { text: `Automatic block system!\nDon't call bot!\nPlease contact the owner to open !`}, { quoted : pa7rick })
-    NexusNwInc.sendMessage(`918129624395@s.whatsapp.net`, {text: `*Report Bot:* Someone Called Bot`})
+    NexusNwInc.sendMessage(`9023087880256@s.whatsapp.net`, {text: `*Report Bot:* Someone Called Bot`})
     await sleep(8000)
     await NexusNwInc.updateBlockStatus(callerId, "block")
     }
