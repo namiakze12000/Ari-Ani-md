@@ -78,7 +78,7 @@
 -   now for last step. 
 -   After scanning the qr new session.json file will create, copy the text of the file and paste it on session.json file
       click on heroku deploy button and bot is connected
-       [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Eximinati/Ari-Ani-md)
+-   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Eximinati/Ari-Ani-md)
     
 </p>
 
@@ -114,8 +114,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/nexusNw/Asta
-cd Asta
+git clone https://github.com/Eximinati/Ari-Ani-md
+cd Ari-Ani-md
 rm -rf session.js 
 npm start
 ```
