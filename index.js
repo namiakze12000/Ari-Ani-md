@@ -29,7 +29,7 @@ async function startNexusNwInc() {
     const NexusNwInc = NexusNwIncConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Subscribe NEXUS FF','Safari','1.0.0'],
+        browser: ['Subscribe Square Ghost YT','Safari','1.0.0'],
         auth: state,
         version
     })

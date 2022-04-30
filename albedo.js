@@ -102,7 +102,7 @@ return dDisplay + hDisplay + mDisplay + sDisplay;
         }
         
         const replay = (teks) => {
-            NexusNwInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botnma}`,"body": ` Subscribe Bot's Official YT Channel`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./Media/astapic.jpg`),"sourceUrl": "https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ"}}}, { quoted: m})
+            NexusNwInc.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": ` ${global.botnma}`,"body": ` Subscribe Bot's Official YT Channel`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": fs.readFileSync(`./Media/astapic.jpg`),"sourceUrl": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjWpvf5rrv3AhXjg_0HHWI0CJQQFnoECAUQAQ&url=https%3A%2F%2Fwww.youtube.com%2Fc%2FGAMINGDUDES_GD&usg=AOvVaw2Brz3_9EIOrhpC9fOABdP4"}}}, { quoted: m})
         }
 try {
             let isNumber = x => typeof x === 'number' && !isNaN(x)
@@ -1958,6 +1958,13 @@ To download media, please click one of the buttons below or enter the ytmp3/ytmp
 		NexusNwInc.sendMessage(m.chat, { audio: { url: result.audio }, fileName: result.title+'.mp3', mimetype: 'audio/mpeg' }, { quoted: m })
 	    }
 	    break
+        case 'spank': {
+            if(!text) throw `Example : ${prefix + command} spank`
+            if (!text) throw oh
+            xy - await getBuffer('https://nekos.life/api/v2/img/spank')
+            NexusNwInc.sendMessage(m.chat, {document: xy, mimetype: 'gif', MessageType: 'video/mp4'}, {quoted:m}).catch ((err) => reply(oh))
+        }
+        break
 		case 'iqra': {
 		oh = `Example : ${prefix + command} 3\n\Available IQRA : 1,2,3,4,5,6`
 		if (!text) throw oh
