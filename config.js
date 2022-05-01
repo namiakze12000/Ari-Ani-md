@@ -22,14 +22,14 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['923087880256'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['923087880256'] //another owner number
-global.premium = ['923087880256'] //premium number
-global.pengguna = 'Nexus' //username
-global.botnma = 'Ari Ani' //bot name
-global.ownernma = '👻Ari' //owner name
-global.packname = 'Ani' //sticker package name
-global.author = 'By Aku' //sticker author name
+global.owner = ['917863912273'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['917863912273'] //another owner number
+global.premium = ['917863912273'] //premium number
+global.pengguna = 'Minato' //username
+global.botnma = 'MINATO' //bot name
+global.ownernma = '👻MINATO' //owner name
+global.packname = 'regular mf' //sticker package name
+global.author = 'By minato' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '⭔' //design
